@@ -1,0 +1,1 @@
+{"options":{"TypedArrays":false,"ClampByteArrays":false,"Language":{"Case":"TypeScript"},"Define":["FABLE_COMPILER","FABLE_COMPILER_3"],"DebugMode":true,"OptimizeFSharpAst":false,"RootModule":true,"Verbosity":{"Case":"Normal"},"FileExtension":".fs.ts"},"version":"3.4.7"}

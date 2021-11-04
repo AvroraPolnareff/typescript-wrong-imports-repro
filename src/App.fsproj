@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <TargetFramework>net5.0</TargetFramework>
+    </PropertyGroup>
+    <ItemGroup>
+        <Compile Include="App.fs" />
+    </ItemGroup>
+    <ItemGroup>
+        <PackageReference Include="Fable.Core" Version="3.4.0" />
+    </ItemGroup>
+    <ItemGroup>
+      <TypeScriptCompile Include="index.ts" />
+    </ItemGroup>
+</Project>
